@@ -55,3 +55,28 @@ Das Testkonzept von FoodChooser zielt darauf ab, alle Kernfunktionen der App sys
     - **Beschreibung:** Überprüft das haptische Feedback bei Interaktionen.
     - **Vorgehensweise:** Führen Sie verschiedene Interaktionen durch (z.B. langes Drücken auf ein Rezept).
     - **Erwartetes Ergebnis:** Das Gerät vibriert bei der entsprechenden Interaktion.
+
+# App Store / Google Play Beschreibung
+
+## FoodChooser - Dein persönlicher Rezeptassistent
+
+### Beschreibung
+
+**FoodChooser** ist dein neuer bester Freund in der Küche! Mit dieser App kannst du mühelos leckere Mahlzeiten zaubern, basierend auf den Zutaten, die du bereits zu Hause hast. Egal ob du ein Anfänger oder ein erfahrener Koch bist, FoodChooser bietet dir eine einfache und intuitive Möglichkeit, neue Rezepte zu entdecken und deine Lieblingsgerichte zu speichern.
+
+### Funktionen:
+
+- **Zutaten-Eingabe:** Gib einfach die Zutaten ein, die du im Kühlschrank hast, und FoodChooser findet passende Rezepte für dich.
+- **Rezeptvorschläge:** Erhalte eine Vielzahl von Rezeptvorschlägen basierend auf deinen vorhandenen Zutaten.
+- **Favoriten:** Speichere deine Lieblingsrezepte und greife jederzeit auf sie zu.
+- **Detaillierte Anleitungen:** Schritt-für-Schritt-Anleitungen helfen dir, jedes Rezept mühelos nachzukochen.
+- **Vibrationsfeedback:** Erhalte haptisches Feedback beim Hinzufügen von Favoriten.
+
+### Warum FoodChooser?
+
+- **Einfach und intuitiv:** Die benutzerfreundliche Oberfläche macht das Navigieren und Finden von Rezepten zum Kinderspiel.
+- **Spart Zeit und Geld:** Vermeide Lebensmittelverschwendung, indem du Zutaten verwendest, die du bereits hast.
+- **Kreativ und inspirierend:** Lass dich von neuen Rezeptideen inspirieren und erweitere deinen kulinarischen Horizont.
+
+
+- ![img.png](img.png)
