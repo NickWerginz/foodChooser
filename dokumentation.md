@@ -79,5 +79,5 @@ Das Testkonzept von FoodChooser zielt darauf ab, alle Kernfunktionen der App sys
 - **Kreativ und inspirierend:** Lass dich von neuen Rezeptideen inspirieren und erweitere deinen kulinarischen Horizont.
 
 
-- ![img.png](img.png)
-- https://www.figma.com/design/lXplnsLm0p3oRfYTXKsAYG/expoAbschlussApp?node-id=0-1&t=UU5rSn3r8foMisT0-1
+![img.png](img.png)
+https://www.figma.com/design/lXplnsLm0p3oRfYTXKsAYG/expoAbschlussApp?node-id=0-1&t=UU5rSn3r8foMisT0-1
